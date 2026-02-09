@@ -16,8 +16,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a first-year PhD-track Master’s student in Computer Science at UBC, co-advised by Dr. [Geoff Pleiss](https://geoffpleiss.com/) and Dr. [Evan Shelhamer](http://imaginarynumber.net/research/).
-I'm interested in application-driven deep learning research, particularly in self-supervised vision foundation models, uncertainty quantification, computational efficiency, and multi-modeling.
+I am a first-year PhD-track MSc student in Computer Science at UBC, co-advised by Dr. [Geoff Pleiss](https://geoffpleiss.com/) and Dr. [Evan Shelhamer](http://imaginarynumber.net/research/).
+I'm interested in application-driven deep learning research, particularly in self-supervised vision foundation models, uncertainty quantification, multi-modeling, and most recently remote sensing.
 
 > Piragua, piragua, new block of ice, piragua. -- "In The Heights"
 
@@ -25,4 +25,4 @@ My undergraduate honours thesis focused on uncertainty quantification in deep le
 
 Peviously, I was a research assistant in UBC SPIN Lab (HCI & Robotics), where I [gave fluffy robots heartbeats and made them breathe](https://www.cs.ubc.ca/labs/spin/node/579).
 
-Outside of research, I am an enthusiastic, albeit mediocre, bird watcher, and perform with UBC Acappella.
+Outside of research, I'm an enthusiastic, albeit mediocre, bird watcher. I also perform with UBC Acappella and play trumpet in a jazz band.
