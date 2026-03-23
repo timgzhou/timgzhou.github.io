@@ -26,3 +26,5 @@ My undergraduate honours thesis focused on uncertainty quantification in deep le
 Peviously, I was a research assistant in UBC SPIN Lab (HCI & Robotics), where I [gave fluffy robots heartbeats and made them breathe](https://arxiv.org/pdf/2602.07395).
 
 Outside of research, I'm an enthusiastic, albeit mediocre, bird watcher. I also perform with UBC Acappella and play trumpet in a jazz band.
+
+**Note on UBC Computer Vision Reading Group (CVRG)**: I organize this weekly reading group, which meets every Monday at 2pm. To join the mailing list, email cvrg-l-request@cs.ubc.ca with the word _join_ in the subject or body.
