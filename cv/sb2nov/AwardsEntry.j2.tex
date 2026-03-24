@@ -1,0 +1,13 @@
+((* if not is_first_entry *))
+\vspace{<<design.margins.entry_area.vertical_between>>}
+((* endif *))
+
+\begin{onecolentry}
+    \textbf{<<entry.award_name>>} % The award name
+    ((* if entry.awarded_by *)) % Check if the awarded_by field is provided
+        \textit{ (Awarded by <<entry.awarded_by>>)} % Include awarded_by
+    ((* endif *))
+    ((* if entry.amount *)) % Check if amount is provided
+        \hfill \textit{<<entry.amount>>} % Add amount on the same line, aligned to the right
+    ((* endif *))
+\end{onecolentry}
