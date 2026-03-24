@@ -27,4 +27,4 @@ Peviously, I was a research assistant in UBC SPIN Lab (HCI & Robotics), where I 
 
 Outside of research, I'm an enthusiastic, albeit mediocre, bird watcher. I also perform with UBC Acappella and play trumpet in a jazz band.
 
-**Note on UBC Computer Vision Reading Group (CVRG)**: I organize this weekly reading group, which meets every Monday at 2pm. To join the mailing list, email cvrg-l-request@cs.ubc.ca with the word _join_ in the subject or body.
+**Note on UBC Computer Vision Reading Group (CVRG)**: I organize the weekly CV reading group, which meets every Monday at 2pm. To join the mailing list, email cvrg-l-request@cs.ubc.ca with the word _join_ in the subject or body.

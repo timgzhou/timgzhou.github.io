@@ -1,0 +1,25 @@
+((* if not is_first_entry *))
+\vspace{<<design.margins.entry_area.vertical_between>>}
+((* endif *))
+
+\begin{samepage}
+    \begin{onecolentry}
+        \textbf{<<entry.title>>}
+    \end{onecolentry}
+
+    \vspace{<<design.margins.highlights_area.top>>}
+
+    ((* if entry.journal *))
+    \begin{widetwocolentry}{
+        <<entry.journal>>
+    }
+    ((* else *))
+    \begin{onecolentry}
+    ((* endif *))
+        <<entry.authors|map("make_it_nolinebreak")|join(", ")>>
+    ((* if entry.journal *))
+    \end{widetwocolentry}
+    ((* else *))
+    \end{onecolentry}
+    ((* endif *))
+\end{samepage}
