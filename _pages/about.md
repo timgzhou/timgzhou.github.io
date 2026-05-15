@@ -26,11 +26,6 @@ I use remote sensing as a high-impact testbed, where satellites are
 retired and launched continuously, and the stakes span deforestation
 tracking to disaster response.
 
-My current projects include [Asymmetric Duos](https://arxiv.org/abs/2505.18636)
-(NeurIPS 2025, Spotlight), [DeluluNet](#), and a
-[Mitacs Accelerate](https://www.mitacs.ca/) project with
-[RBC Borealis](https://rbcborealis.com/) that brings all three together.
-
 Previously, I was a research assistant in UBC SPIN Lab (HCI & Robotics),
 where I [gave fluffy robots heartbeats and made them breathe](https://arxiv.org/pdf/2602.07395).
 
