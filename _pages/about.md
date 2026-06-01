@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: tim-website-pic.jpg
+  image: prof_pic2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Tim (in wind)</p>;
