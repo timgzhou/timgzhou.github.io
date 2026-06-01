@@ -8,7 +8,8 @@ profile:
   image: prof_pic2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Tim (in wind)l Abbotsford BC.</p>
+    <p>Tim (in wind);</p> 
+    <p>Abbotsford, BC.</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
